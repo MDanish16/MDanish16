@@ -4,7 +4,6 @@
 - 🌱 I’m currently pursuing my B.Tech degree in Computer Science with Specialization in Blockchain Technology.<br/>
 - 🤝 I’m looking to collaborate on exciting open-source projects, especially in web development and AI.<br/>
 - 🎨 I’m looking for help with improving my UI/UX design skills.<br/>
-- 📫 How to reach me: Instagram(https://www.instagram.com/danniiisshhh/)<br/>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/danniiisshhh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/mohamed-danish-218136277/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/mohameddanishprimes) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)]((https://www.quora.com/profile/Mohamed-Danish-29)) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/gucciidan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohameddanishprimes@gmail.com) 
